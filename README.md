@@ -16,7 +16,7 @@
 - 🔭 I’m currently learning, nextjs ,typescript and working on projects.
 - 🌱 I’m currently learning Web3 and expanding my full-stack development skills.
 - 💬 Ask me about React, Node.js, or building full-stack applications.
-- 📫 How to reach me: abhisheksamriya2024@example.com
+- 📫 How to reach me: abhisheksamriya2024@gmail.com
 - ⚡ Fun fact: I love exploring new technologies and applying them in my projects.
 
 ###
